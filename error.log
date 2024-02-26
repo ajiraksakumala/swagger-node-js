@@ -1,0 +1,165 @@
+2023-11-10T04:05:54.093Z - Error: Joi is not defined
+2023-11-10T04:09:22.287Z - Error: Joi is not defined
+2023-11-10T04:09:37.104Z - Error: [object Object]
+2023-11-10T04:11:03.537Z - Error: "lastName" is required
+2023-11-10T04:13:14.182Z - Error: undefined
+2023-11-10T04:19:34.780Z - Error: Unknown column 'createdAt' in 'field list'
+2023-11-10T04:21:01.846Z - Error: result is not defined
+2023-11-10T04:21:17.446Z - Error: result is not defined
+2023-11-10T04:28:25.328Z - Error: user.generateAuthToken is not a function
+2023-11-10T04:31:53.473Z - Error: user.generateAuthToken is not a function
+2023-11-10T04:37:30.876Z - Error: User already registered
+2023-11-10T04:37:48.366Z - Error: Cannot read properties of undefined (reading 'build')
+2023-11-10T04:38:26.847Z - Error: Cannot read properties of undefined (reading 'build')
+2023-11-10T04:39:33.752Z - Error: Cannot read properties of undefined (reading 'create')
+2023-11-10T06:30:32.150Z - Error: Cannot access 'user' before initialization
+2023-11-10T06:51:16.228Z - Error: User already registered
+2023-11-10T06:51:37.669Z - Error: result is not defined
+2023-11-10T07:14:44.851Z - Error: validateUserLogin is not defined
+2023-11-10T07:15:23.471Z - Error: "email" is required
+2023-11-10T07:15:35.119Z - Error: "email" is required
+2023-11-10T07:15:42.109Z - Error: "email" is required
+2023-11-10T07:18:43.347Z - Error: "password" is required
+2023-11-10T07:23:51.164Z - Error: Authentication failed. Wrong password.
+2023-11-10T07:24:32.005Z - Error: Authentication failed. User not found.
+2023-11-10T11:03:48.028Z - Error: authentication failed
+2023-11-10T11:04:49.782Z - Error: authentication failed
+2023-11-10T11:06:01.730Z - Error: authentication failed
+2023-11-10T11:06:36.199Z - Error: authentication failed
+2023-11-10T11:09:19.126Z - Error: authentication failed
+2023-11-11T00:18:24.972Z - Error: invalid token
+2023-11-11T00:24:38.852Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:26:03.000Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:27:20.955Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:28:58.467Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:30:46.667Z - Error: invalid token
+2023-11-11T00:36:29.561Z - Error: invalid token
+2023-11-11T00:37:02.477Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:37:49.854Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:38:33.111Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:38:40.932Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:40:55.130Z - Error: Authentication failed. Wrong password.
+2023-11-11T00:41:22.200Z - Error: invalid token
+2023-11-11T00:59:31.828Z - Error: invalid token
+2023-11-11T02:00:33.212Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:00:56.140Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:08:16.660Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:09:55.099Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:11:50.159Z - Error: object.id.trim is not a function
+2023-11-11T02:12:04.991Z - Error: request.id.trim is not a function
+2023-11-11T02:12:16.757Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:12:45.122Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:12:55.610Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:13:14.352Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:13:32.146Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:13:36.082Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T02:25:29.901Z - Error: You attempted to save an instance with no primary key, this is not allowed since it would result in a global update
+2023-11-11T04:28:08.179Z - Error: "id" must be a number
+2023-11-11T04:43:00.055Z - Error: "id" must be a number
+2023-11-11T04:43:11.026Z - Error: "title" is required
+2023-11-11T04:43:25.252Z - Error: "author" is required
+2023-11-11T04:43:41.434Z - Error: "isbn" is required
+2023-11-11T04:43:52.796Z - Error: "publisherId" is required
+2023-11-11T04:44:06.768Z - Error: "publisherId" must be a number
+2023-11-11T04:44:15.222Z - Error: WHERE parameter "name" has invalid "undefined" value
+2023-11-11T04:45:07.489Z - Error: Publisher tidak terdaftar
+2023-11-11T04:45:45.021Z - Error: Cannot read properties of null (reading 'id')
+2023-11-11T04:46:31.917Z - Error: Publisher tidak terdaftar
+2023-11-11T04:54:19.709Z - Error: Unknown column 'publisherId' in 'field list'
+2023-11-11T04:55:17.265Z - Error: Unknown column 'bookId' in 'field list'
+2023-11-11T04:55:37.050Z - Error: Unknown column 'books.name' in 'field list'
+2023-11-11T04:55:59.843Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T04:56:34.582Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T05:00:52.237Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T05:02:30.333Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T05:08:31.035Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T05:09:54.591Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T05:12:15.775Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T05:24:18.759Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:24:46.089Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:25:56.308Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:26:29.123Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:29:57.943Z - Error: columnUpdatet is not defined
+2023-11-11T05:30:16.223Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:31:02.981Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:31:32.266Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:32:09.042Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:33:01.379Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:33:17.081Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:34:57.858Z - Error: Cannot read properties of undefined (reading 'id')
+2023-11-11T05:36:04.814Z - Error: Cannot read properties of undefined (reading 'id')
+2023-11-11T05:39:30.065Z - Error: columnUpdatet is not defined
+2023-11-11T05:41:21.820Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T05:41:28.131Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:42:16.532Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T05:42:24.586Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:43:09.891Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T05:48:46.393Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T05:54:12.401Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T05:54:44.753Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T05:55:07.907Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T05:55:36.319Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T05:55:59.350Z - Error: Cannot read properties of undefined (reading '_findAllBook')
+2023-11-11T05:56:51.157Z - Error: Cannot read properties of undefined (reading '_findAllBook')
+2023-11-11T06:10:00.300Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T06:11:01.348Z - Error: Include unexpected. Element has to be either a Model, an Association or an object.
+2023-11-11T06:12:51.779Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:14:18.370Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:18:05.351Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T06:18:10.121Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:19:43.617Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:20:29.338Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:21:34.119Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:23:16.855Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:25:18.384Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:26:57.537Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:27:41.857Z - Error: Validation error
+2023-11-11T06:33:59.351Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:35:17.610Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:36:10.627Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:37:57.463Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:39:12.312Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:39:26.548Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:40:17.117Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:43:08.127Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:43:50.750Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:45:27.478Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T06:49:04.298Z - Error: Publisher tidak terdaftar
+2023-11-11T06:49:34.039Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T07:04:19.278Z - Error: Unknown column 'books.name' in 'field list'
+2023-11-11T07:11:35.891Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T07:12:34.538Z - Error: Unknown column 'publishers.name' in 'field list'
+2023-11-11T07:15:10.091Z - Error: Cannot read properties of undefined (reading 'name')
+2023-11-11T07:46:34.079Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T07:47:04.392Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-11T07:59:49.305Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T07:59:54.838Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T08:03:27.996Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T08:03:33.366Z - Error: Argument passed to findByPk is invalid: [object Object]
+2023-11-11T08:05:02.780Z - Error: Nama sudah digunakan oleh publisher lain.
+2023-11-11T08:06:24.523Z - Error: Argument passed to findByPk is invalid: [object Object]
+2023-11-11T08:22:05.873Z - Error: "name" is required
+2023-11-11T08:23:24.292Z - Error: param is not defined
+2023-11-11T08:23:45.615Z - Error: Unsupported where option value: DeletePublisher { id: '1' }. Please refer to the Sequelize documentation to learn more about which values are accepted as part of the where option.
+2023-11-11T08:24:19.390Z - Error: Unsupported where option value: DeletePublisher { id: '1' }. Please refer to the Sequelize documentation to learn more about which values are accepted as part of the where option.
+2023-11-11T08:31:04.473Z - Error: SequelizeForeignKeyConstraintError: Cannot delete or update a parent row: a foreign key constraint fails (`skill_test_nodejs`.`books`, CONSTRAINT `publisherId_foreign` FOREIGN KEY (`publisherId`) REFERENCES `publishers` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2023-11-11T08:35:39.818Z - Error: Publisher not found
+2023-11-11T08:39:23.849Z - Error: Publisher not found
+2023-11-11T08:39:35.450Z - Error: Book not found
+2023-11-11T08:40:03.045Z - Error: Book not found
+2023-11-13T02:23:00.576Z - Error: invalid token
+2023-11-13T02:56:50.247Z - Error: Authentication failed. Wrong password.
+2023-11-13T02:57:25.704Z - Error: No auth token
+2023-11-13T02:57:27.166Z - Error: No auth token
+2023-11-13T03:09:59.228Z - Error: No auth token
+2023-11-13T03:10:00.646Z - Error: No auth token
+2023-11-13T03:14:14.755Z - Error: "id" is required
+2023-11-13T03:19:02.711Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-13T03:20:20.568Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-13T03:21:14.014Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-13T03:21:30.319Z - Error: "id" is required
+2023-11-13T03:22:41.476Z - Error: Nama sudah digunakan oleh buku lain.
+2023-11-16T04:35:26.863Z - Error: No auth token
+2023-11-16T04:38:42.812Z - Error: Cannot read properties of null (reading 'id')
+2023-11-16T04:39:07.718Z - Error: Cannot read properties of null (reading 'id')
+2023-11-16T04:39:29.233Z - Error: Cannot read properties of null (reading 'id')
